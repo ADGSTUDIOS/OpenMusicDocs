@@ -1,0 +1,2 @@
+# OpenMusicDocs
+documentation for OpenMusic
