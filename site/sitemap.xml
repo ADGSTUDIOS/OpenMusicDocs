@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://adgstudios.com/</loc>
-         <lastmod>2021-12-30</lastmod>
+         <lastmod>2022-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://adgstudios.com/configuration/</loc>
-         <lastmod>2021-12-30</lastmod>
+         <lastmod>2022-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://adgstudios.com/deployment/</loc>
-         <lastmod>2021-12-30</lastmod>
+         <lastmod>2022-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://adgstudios.com/development/</loc>
-         <lastmod>2021-12-30</lastmod>
+         <lastmod>2022-01-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://adgstudios.com/docker-guide/</loc>
+         <lastmod>2022-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://adgstudios.com/downloadingfiles/</loc>
-         <lastmod>2021-12-30</lastmod>
+         <lastmod>2022-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://adgstudios.com/real-world-examples/</loc>
-         <lastmod>2021-12-30</lastmod>
+         <lastmod>2022-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://adgstudios.com/visual-linux/</loc>
-         <lastmod>2021-12-30</lastmod>
+         <lastmod>2022-01-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
